@@ -24,6 +24,7 @@ collections:
 title: SPHT
 email: contact@spht.cl
 description: >- # this means to ignore newlines until "baseurl:"
+Personal website where I'll upload photographs I take, along with anecdotes and other stuff when I have the time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sebaarrr
