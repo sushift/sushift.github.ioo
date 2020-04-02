@@ -3,9 +3,8 @@ layout: post
 title: "Quarantine"
 date: 2020-04-02 17:56:00 -0300
 categories: general
-{: .text-justify}
 ---
-It's been just a few weeks, but the toll of social distancing is pretty real. Not being able to hangout out with friends or even hug my mother (she works at a hospital) is not a very nice feeling. But I find it curious that despite the hurt involved in all that, it's just gets kind of easier to do it each day. I'm not talking about getting used to it, but knowing that staying in quarantine is the way to protect not just the people around you, but everyone. And although it's not something confirmed, I'd like to talk about it anyways: Six degrees of separation.
+It's been just a few weeks, but the toll of social distancing is pretty real. Not being able to hangout out with friends or even hug my mother (she works at a hospital) is not a very nice feeling. But I find it curious that despite the hurt involved in all that, it's just gets kind of easier to do it each day. I'm not talking about getting used to it, but knowing that staying in quarantine is the way to protect not just the people around you, but everyone. And although it's not something confirmed, I'd like to talk about it anyways: Six degrees of separation.{: .text-justify}
 
 This is a long known theory, originally written by Hungarian writer Frigyes Karinthy, author of _"Everything is different"_. In this volume of short stories, there is one called _"Chains"_, in which he explored the idea of a **"shrinking world"**, meaning that as technology advanced in terms of travel and communication, everyone was more connected to one another, effectively enalarging one's social circle. Because of this, the story's characters believed that there were no more than five acquaintances between any two people. 
 
@@ -21,4 +20,4 @@ In a more microscopic scale, there's also a game to link Kevin Bacon to any othe
 The purpose of this post is, I think, to highlight the importance of staying at home during the current global situation, as you're not only protecting yourselves and the people you hold dearest, but also someone, that even though you think you have no connection to, is closer to you than you think.
 
 Also, posting this picture taken from my home's entrance, a view that I have not seen for quite a few days now.
-![image](https://i.imgur.com/eEyUilD.jpg)
+![My home's entrance](https://i.imgur.com/eEyUilD.jpg)
