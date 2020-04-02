@@ -22,7 +22,7 @@ collections:
   photos:
 
 title: SPHT
-email: contact@spht.cl
+#email: contact@spht.cl
 description: >- 
   Personal website where I'll upload photographs I take, along with anecdotes and other stuff when I have the time.
 baseurl: "" # the subpath of your site, e.g. /blog
