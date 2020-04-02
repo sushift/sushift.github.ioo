@@ -20,7 +20,7 @@
 
 collections:
   photos:
-
+includes:
 title: SPHT
 # email: contact@spht.cl
 description: >- 
