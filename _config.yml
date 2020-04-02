@@ -20,7 +20,7 @@
 
 collections:
   photos:
-includes:
+google_analytics: UA-162614325-1
 title: SPHT
 # email: contact@spht.cl
 description: >- 
