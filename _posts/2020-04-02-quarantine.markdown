@@ -3,6 +3,7 @@ layout: post
 title: "Quarantine"
 date: 2020-04-02 17:56:00 -0300
 categories: general
+{: .text-justify}
 ---
 It's been just a few weeks, but the toll of social distancing is pretty real. Not being able to hangout out with friends or even hug my mother (she works at a hospital) is not a very nice feeling. But I find it curious that despite the hurt involved in all that, it's just gets kind of easier to do it each day. I'm not talking about getting used to it, but knowing that staying in quarantine is the way to protect not just the people around you, but everyone. And although it's not something confirmed, I'd like to talk about it anyways: Six degrees of separation.
 
