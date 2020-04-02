@@ -12,6 +12,7 @@ This is a long known theory, originally written by Hungarian writer Frigyes Kari
 
 <sup>Game invented by the characters based on the latter notion</sup>
 
+
 There's also academic research, mainly in the context of computer science, that points to this exact notion being pretty much accurate. For example in 2007, a study was made using Windows Messenger, in which it was found that, between 240 million users, the average path length between every two users was 6. An study made using better algorithms in Twitter, found an average degree of separation between two users to be just 3.88.
 
 In a more microscopic scale, there's also a game to link Kevin Bacon to any other actor through no more than 6 connections. Two actors are connected if they appeared in a movie or commercial together. As of September 2012, it's possible to search in Google for any given actor's _"Bacon number"_. That is, how many steps are needed to get to Kevin Bacon.
@@ -19,4 +20,4 @@ In a more microscopic scale, there's also a game to link Kevin Bacon to any othe
 The purpose of this post is, I think, to highlight the importance of staying at home during the current global situation, as you're not only protecting yourselves and the people you hold dearest, but also someone, that even though you think you have no connection to, is closer to you than you think.
 
 Also, posting this picture taken from my home's entrance, a view that I have not seen for quite a few days now.
-# ![image](https://i.imgur.com/eEyUilD.jpg)
+![image](https://i.imgur.com/eEyUilD.jpg)
