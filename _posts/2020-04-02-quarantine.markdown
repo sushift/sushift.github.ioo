@@ -10,8 +10,8 @@ This is a long known theory, originally written by Hungarian writer Frigyes Kari
 
 >_"A fascinating game grew out of this discussion. One of us suggested performing the following experiment to prove that the population of the Earth is closer together now than they have ever been before. We should select any person from the 1.5 billion inhabitants of the Earth – anyone, anywhere at all. He bet us that, using no more than five individuals, one of whom is a personal acquaintance, he could contact the selected individual using nothing except the network of personal acquaintances."_
 
-<sup>Game invented by the characters based on the latter notion</sup>
 
+<sup>Game invented by the characters based on the latter notion</sup>
 
 There's also academic research, mainly in the context of computer science, that points to this exact notion being pretty much accurate. For example in 2007, a study was made using Windows Messenger, in which it was found that, between 240 million users, the average path length between every two users was 6. An study made using better algorithms in Twitter, found an average degree of separation between two users to be just 3.88.
 
