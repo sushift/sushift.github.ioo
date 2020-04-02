@@ -4,7 +4,7 @@ title: "Quarantine"
 date: 2020-04-02 17:56:00 -0300
 categories: general 
 ---
-It's been just a few weeks, but the toll of social distancing is pretty real. Not being able to hangout out with friends or even hug my mother (she works at a hospital) is not a very nice feeling. But I find it curious that despite the hurt involved in all that, it's just gets kind of easier to do it each day. I'm not talking about getting used to it, but knowing that staying in quarantine is the way to protect not just the people around you, but everyone. And although it's not something confirmed, I'd like to talk about it anyways: Six degrees of separation.
+It's been just a few weeks, but the toll of social distancing is pretty real. Not being able to hangout out with friends or even hug my mother (she works at a hospital) is not a very nice feeling. But I find it curious that despite the hurt involved in all that, it's just gets kind of easier to do it each day. I'm not talking about getting used to it, but knowing that staying in quarantine is the way to protect not just the people around you, but everyone. And although it's not something confirmed, I'd like to talk about it anyways: _**Six degrees of separation**_.
 
 This is a long known theory, originally written by Hungarian writer Frigyes Karinthy, author of _"Everything is different"_. In this volume of short stories, there is one called _"Chains"_, in which he explored the idea of a **"shrinking world"**, meaning that as technology advanced in terms of travel and communication, everyone was more connected to one another, effectively enalarging one's social circle. Because of this, the story's characters believed that there were no more than five acquaintances between any two people. 
 
