@@ -18,13 +18,13 @@ So, my idea to start scanning, was taking a photograph of the negative filling t
 
 So, on to the setup itself. What I use is my __DSLR__, the __extension tube__, an __iPad mini__ as light table (I know, far from ideal), a __tripod__ and __Photoshop__.
 
-![iPad](https://i.imgur.com/NgpBuVz.jpg){: .align-left} ![Tripod](https://i.imgur.com/zCoB6fS.jpg){: .align-right}
+![iPad](https://i.imgur.com/NgpBuVz.jpg) ![Tripod](https://i.imgur.com/zCoB6fS.jpg)
 
 ![Setup](https://i.imgur.com/Q7S0IHF.jpg)
 
 I start by positioning the camera and tripod in such a way, that the lens is perpendicular to my desk. Then I adjust the height of the tripod, so that the film can be in focus. I put the camera timer to 2 seconds, in order to prevent any shaking when pressing the shutter button. I then put the camera in live-view, so that I can adjust the film easily. Then it all comes down to taking the pictures. For this particular image, I took about 10 photographs. Is important to not let any light come in from the borders, as it can have a great impact on contrast and chromatic aberration.
 
-![Timer](https://i.imgur.com/JhqnJF0.jpg){: .align-left} ![Live-view](https://i.imgur.com/HmvAKV9.jpg){: .align-right}
+![Timer](https://i.imgur.com/JhqnJF0.jpg) ![Live-view](https://i.imgur.com/HmvAKV9.jpg)
 
 ![Scans](https://i.imgur.com/bX1hs4b.png)
 <sup><sub>Here I have the photos I took for this scan</sub></sup>
@@ -35,11 +35,11 @@ As you can see from my previous image, there is a picture with a lot of light co
 
 Then I just click on File > Automate > Lens Correction and select all the processed images. This will output all lens-corrected images to a folder named results, in the same folder the original images where.
 
-![Photoshop](https://i.imgur.com/PHqa70Y.png){: .align-left} ![Lens-correction](https://i.imgur.com/wlKTeAd.png){: .align-right}
+![Photoshop](https://i.imgur.com/PHqa70Y.png) ![Lens-correction](https://i.imgur.com/wlKTeAd.png)
 
 Now I have to stitch them all together, for that I go into File > Automate > Photomerge and select the PSD files that were just created. Make sure to untick 'Blend Images Together' and tick 'Geometric Distortion Correction'.
 
-![Photoshop](https://i.imgur.com/TueqW7X.png){: .align-left} ![Photomerge](https://i.imgur.com/NXB9lrz.png){: .align-right}
+![Photoshop](https://i.imgur.com/TueqW7X.png) ![Photomerge](https://i.imgur.com/NXB9lrz.png)
 
 Finally, after some retouching I got something like this:
 
@@ -55,7 +55,7 @@ And I got this:
 
 Which I can copy to another PSD and use the free-transform tool to adjust the edges and getting the final picture.
 
-![Transform](https://i.imgur.com/wJTrR0A.png){: .align-left} ![End](https://i.imgur.com/2PTA2ty.png){: .align-right}
+![Transform](https://i.imgur.com/wJTrR0A.png) ![End](https://i.imgur.com/2PTA2ty.png)
 
 Finally I'm left with a HUGE scan, without many noticeable borders.
 
