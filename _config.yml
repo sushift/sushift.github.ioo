@@ -32,7 +32,7 @@ github_username:  sushift
 instagram_username: sebaa.sch
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console\
+remote_theme: b2a3e8/jekyll-theme-console
 #theme: minima
 plugins:
   - jekyll-feed
