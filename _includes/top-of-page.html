@@ -1,0 +1,24 @@
+<nav class="top-of-page">
+
+
+    {%- if page.index -%}
+        <h1 class="name">SPHT</h1>
+    {%- else -%}
+        <a href="/" rel="author" title="SPHT" class="name">SPHT</a>
+    {%- endif -%}
+    
+    {%- if page.about -%}
+        <span class="current-page">About</span>
+    {%- else -%}
+        <a href="/about/" title="About">About</a>
+    {%- endif -%}
+    
+    {%- if page.gallery -%}
+        <span class="current-page">Gallery</span>
+    {%- else -%}
+        <a href="/gallery/" title="Gallery">Blog</a>
+    {%- endif -%}
+    
+    <a id="theme-toggle" onclick="modeSwitcher()" role="button"></a>
+    
+    </nav>
