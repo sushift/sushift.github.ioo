@@ -11,3 +11,7 @@ $grey-color-light: #565656;
 $grey-color-dark: #adadad; 
 
 @import "{{ site.theme }}";
+
+.post-content.e-content {
+  text-align: center;
+}
