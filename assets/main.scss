@@ -137,14 +137,14 @@ table {
       background-color: $table-zebra-color;
     }
     &:nth-child(odd) {
-      background-color: lighten($table-zebra-color, 15%);
+      background-color: #545454;
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($table-zebra-color, 10%);
+    background-color: #363636;
     border: 1px solid $table-header-border;
   }
   td {
