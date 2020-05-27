@@ -12,7 +12,7 @@ url: "https://spht.cl" # the base hostname & protocol for your site, e.g. http:/
 #instagram_username: sebaa.sch
 minima:
   skin: dark
-
+  
   social_links:
     twitter: sebaarrr
     instagram: sebaa.sch
