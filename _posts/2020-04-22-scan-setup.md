@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My negative scanning setup"
 date: 2020-04-22 15:30:00 -0300
 categories: general 
