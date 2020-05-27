@@ -33,7 +33,7 @@ instagram_username: sebaa.sch
 
 # Build settings
 remote_theme: broccolini/swiss
-#theme: minima
+
 plugins:
   - jekyll-feed
 
