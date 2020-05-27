@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "minima";
-
 $brand-color:           #999999 !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
@@ -96,3 +94,5 @@ $table-border-color:    $border-color-01 !default;
   .vi    { color: #EEFFFF } // Name.Variable.Instance
   .il    { color: #F78C6C } // Literal.Number.Integer.Long
 }
+
+@import "minima";
