@@ -27,9 +27,11 @@ description: >-
   Personal website where I'll upload photographs I take, along with anecdotes and other stuff when I have the time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spht.cl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: sebaarrr
-github:  sushift
-instagram: sebaa.sch
+#twitter_username: sebaarrr
+github_username:  sushift
+#instagram_username: sebaa.sch
+social_link: instagram
+social_username: sebaa.sch
 
 # Build settings
 remote_theme: broccolini/swiss
