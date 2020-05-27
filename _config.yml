@@ -1,5 +1,3 @@
-collections:
-  photos:
 google_analytics: UA-162614325-1
 title: SPHT
 # email: contact@spht.cl
@@ -17,6 +15,9 @@ minima:
     twitter: sebaarrr
     instagram: sebaa.sch
     github: sushift
+
+collections:
+  photos:
 
 # Build settings
 #remote_theme: broccolini/swiss
