@@ -31,6 +31,9 @@ twitter_username: sebaarrr
 github_username:  sushift
 instagram_username: sebaa.sch
 
+minima:
+  skin: dark
+
 # Build settings
 #remote_theme: b2a3e8/jekyll-theme-console
 theme: minima

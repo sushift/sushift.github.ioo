@@ -21,8 +21,8 @@ $border-color-03:       $brand-color !default;
 
 $table-text-color:      $text-color !default;
 $table-zebra-color:     lighten($background-color, 4%) !default;
-$table-header-bg-color: lighten($background-color, 20%) !default;
-$table-header-border:   lighten($background-color, 21%) !default;
+$table-header-bg-color:#4b4b4b !default;
+$table-header-border:   lighten($table-header-bg-color, 5%) !default;
 $table-border-color:    $border-color-01 !default;
 
 
@@ -118,15 +118,6 @@ $on-laptop:        800px !default;
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-// Notice the following mixin uses max-width, in a deprecated, desktop-first
-// approach, whereas media queries used elsewhere now use min-width.
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
