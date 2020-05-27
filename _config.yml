@@ -27,7 +27,7 @@ description: >-
   Personal website where I'll upload photographs I take, along with anecdotes and other stuff when I have the time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spht.cl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sebaarrr
+#twitter_username: sebaarrr
 github_username:  sushift
 instagram_username: sebaa.sch
 
@@ -37,7 +37,6 @@ remote_theme: broccolini/swiss
 
 plugins:
   - jekyll-feed
-  - jektify
 
 # Exclude from processing.
 # The following items will not be processed, by default.
