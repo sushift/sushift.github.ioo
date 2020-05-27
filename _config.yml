@@ -32,8 +32,9 @@ github_username:  sushift
 instagram_username: sebaa.sch
 
 # Build settings
-remote_theme: rosario/kasper
+#remote_theme: rosario/kasper
 #theme: minima
+theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
