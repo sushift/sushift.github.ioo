@@ -20,7 +20,7 @@ $border-color-02:       lighten($brand-color, 5%) !default;
 $border-color-03:       $brand-color !default;
 
 $table-text-color:      $text-color !default;
-$table-zebra-color:     #ff0000 !default;
+$table-zebra-color:     lighten($background-color, 4%) !default;
 $table-header-bg-color: lighten($background-color, 4%) !default;
 $table-header-border:   lighten($table-header-bg-color, 5%) !default;
 $table-border-color:    $border-color-01 !default;
@@ -137,14 +137,14 @@ table {
       background-color: $table-zebra-color;
     }
     &:nth-child(odd) {
-      background-color: $table-zebra-color;
+      background-color: lighten($table-zebra-color, 15%) !default;
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $table-header-bg-color;
+    background-color: lighten($table-zebra-color, 10%) !default;
     border: 1px solid $table-header-border;
   }
   td {
