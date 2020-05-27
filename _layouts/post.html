@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-{% jektify spotify/playlist/5UeRz8Rl818o35bbS6BFVn/dark %}
-<audio controls>
-  <source src="https://rainwave.cc/tune_in/5.mp3" type="audio/mpegURL" />
-</audio>
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -30,7 +25,8 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
   </header>
-
+  {% jektify spotify/playlist/5UeRz8Rl818o35bbS6BFVn/dark %}
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
