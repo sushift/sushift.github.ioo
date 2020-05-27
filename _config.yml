@@ -14,7 +14,11 @@ social_link: instagram
 social_username: sebaa.sch
 
 # Build settings
-remote_theme: broccolini/swiss
+#remote_theme: broccolini/swiss
+theme: minima
+
+minima:
+  skin: dark
 
 plugins:
   - jekyll-feed
