@@ -95,4 +95,4 @@ $table-border-color:    $border-color-01 !default;
   .il    { color: #F78C6C } // Literal.Number.Integer.Long
 }
 
-@import "minima";
+@import "{{ site.theme }}";
