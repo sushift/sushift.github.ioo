@@ -36,6 +36,7 @@ instagram_username: sebaa.sch
 theme: minima
 plugins:
   - jekyll-feed
+  - jektify
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,3 +57,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jektify:
+  enable: true
+  open: true
+  toggle:
+    enable: true  
+  spotify:
+    user:
+    text:
+  sass:
+    jekyll: true
+  title:
+    enable: true
+    text: "Jektify"
+  description:
+    enable: true
+    text: |
+      Jekyll plugin to generate html snippets for embedding Spotify Musics.
+      To listen to the full song, open your Spotify and start these musics.

@@ -18,3 +18,8 @@
   </body>
 
 </html>
+
+{% if site.jektify.enable == true and site.jektify.toggle.enable == true %}
+<script src="{{ "/assets/vendor/jektify/js/jektify.min.js" | prepend: site.baseurl }}" ></script>
+{% endif %}
+</body>
