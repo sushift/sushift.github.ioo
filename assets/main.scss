@@ -4,6 +4,8 @@
 $brand-color:           #999999 !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
+$grey-color-light:      #565656; 
+$grey-color-dark:       #adadad; 
 
 $site-title-color:      $brand-color-light !default;
 
@@ -34,7 +36,7 @@ $table-border-color:    $border-color-01 !default;
 // ----------------------------------------------------------------------------
 
 .highlight {
-  .c     { color: #bbbbbb; font-style: italic } // Comment
+  .c     { color: #545454; font-style: italic } // Comment
   .err   { color: #f07178; background-color: #e3d2d2 } // Error
   .k     { color: #89DDFF; font-weight: bold } // Keyword
   .o     { font-weight: bold } // Operator
