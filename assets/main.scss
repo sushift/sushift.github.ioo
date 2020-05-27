@@ -21,7 +21,7 @@ $border-color-03:       $brand-color !default;
 
 $table-text-color:      $text-color !default;
 $table-zebra-color:     lighten($background-color, 4%) !default;
-$table-header-bg-color: lighten($background-color, 4%) !default;
+$table-header-bg-color:#4b4b4b !default;
 $table-header-border:   lighten($table-header-bg-color, 5%) !default;
 $table-border-color:    $border-color-01 !default;
 
@@ -132,19 +132,16 @@ table {
   color: $table-text-color;
   border-collapse: collapse;
   border: 1px solid $table-border-color;
-  tr {
-    &:nth-child(even) {
-      background-color: $table-zebra-color;
-    }
-    &:nth-child(odd) {
-      background-color: #33ff00;
-    }
-  }
+  // tr {
+  //   &:nth-child(even) {
+  //     background-color: $table-zebra-color;
+  //   }
+  // }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: #363636;
+    // background-color: $table-header-bg-color;
     border: 1px solid $table-header-border;
   }
   td {
