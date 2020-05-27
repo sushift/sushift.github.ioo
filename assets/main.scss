@@ -20,8 +20,8 @@ $border-color-02:       lighten($brand-color, 5%) !default;
 $border-color-03:       $brand-color !default;
 
 $table-text-color:      $text-color !default;
-$table-zebra-color:     lighten($background-color, 4%) !default;
-$table-header-bg-color:#4b4b4b !default;
+$table-zebra-color:     #ff0000 !default;
+$table-header-bg-color: lighten($background-color, 4%) !default;
 $table-header-border:   lighten($table-header-bg-color, 5%) !default;
 $table-border-color:    $border-color-01 !default;
 
@@ -95,9 +95,6 @@ $table-border-color:    $border-color-01 !default;
   .il    { color: #F78C6C } // Literal.Number.Integer.Long
 }
 
-/**
- * Tables
- */
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
 $base-font-size:   16px !default;
@@ -137,6 +134,9 @@ table {
   border: 1px solid $table-border-color;
   tr {
     &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+    &:nth-child(odd) {
       background-color: $table-zebra-color;
     }
   }
