@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spht.cl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sebaarrr
 github_username:  sushift
-instagram_username: spht94
+instagram_username: sebaa.sch
 
 minima:
   skin: dark
