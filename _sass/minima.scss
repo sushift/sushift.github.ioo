@@ -33,6 +33,13 @@ $on-laptop:        800px !default;
 //     padding-left: $spacing-unit / 2;
 //   }
 // }
+
+blockquote p{
+
+color:white;
+
+}
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
