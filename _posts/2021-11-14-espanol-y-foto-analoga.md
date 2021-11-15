@@ -8,8 +8,9 @@ Antes que todo, decidí cambiar el lenguaje de este blog a castellano, ya que la
 
 Pero para ello es necesario darnos una definición de fotografía, la cual puede ser en términos técnicos, un medio capaz de capturar una imágen o en términos artísticos, una expresión del artista y su forma de ver el mundo. Por un lado objetivo, mostrar el mundo tal como es con la mayor cantidad de detalles posibles (Ansel Adams) y por el otro lado subjetivo, mostrar el mundo de una manera surrealista o diferente a la que estamos acostumbrados (Philippe Halsman). Ahora, yo no soy ningún erudito ni conocedor de arte, aunque he tratado de letrarme en el tema, sin tanto éxito como me gustaría.
 
-![Clearing Winter Storm](https://i.imgur.com/LZyNnOj.jpg) ![Dali Atomicus](https://i.imgur.com/1z0iDkT.jpg)
-<sub>A la izquierda: Clearing Winter Storm de Ansel Adams, 1944; a la derecha: Dali Atomicus de Philippe Halsman, 1948 </sub>
+![Clearing Winter Storm](https://i.imgur.com/LZyNnOj.jpg) 
+![Dali Atomicus](https://i.imgur.com/1z0iDkT.jpg)
+<sub>Arriba: Clearing Winter Storm de Ansel Adams, 1944; abajo: Dali Atomicus de Philippe Halsman, 1948 </sub>
 
 Aún así, la fotografía, y de forma particular la análoga, ha dejado una marca indeleble en mi ser. Me ha ayudado a realizar cambios en mi manera de observar el mundo, de priorizar cosas a las que no les daba la suficiente importancia. La permanencia física que tienen los negativos (o diapositivas) son un recordatorio constante del proceso de aprendizaje que he vivido, documentaciones que puedo observar mucho tiempo después para aprender de mis errores, a diferencia de la fotografía digital (a veces, no siempre), en la que uno puede verse tentado a fotografiar en modo ráfaga o eliminar fotos que no cumplieron con el estándar que esperábamos en el momento, a pesar de tener un valor intrínseco en el proceso de aprendizaje.
 
